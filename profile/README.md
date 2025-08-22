@@ -1,5 +1,13 @@
 # 🌐  About us:
 - 👤 **Members:** **Awita S7lver** / **アウィタ・シルバー**  <br>- 💻 **Proficient in:** **GNU/Linux** and **FreeBSD**  <br>- 🌐 **Skilled in:** **Java**, **Linux**, **HTML**, **Astro**, **Node.js**, **CSS**, **JavaScript**, and **Python**  <br>- 🗣️ **Languages:** English, Spanish, and 日本語  <br><br>✨ We are a company dedicated to developing **Discord bots** and promoting **free and open-source software**.  <br>🌸 We are passionate about technology, artificial intelligence, and building useful tools for the community.  <br>🤖 Always seeking new challenges and continuous learning.  <br><br>📂 We also share projects and models on Hugging Face:  <br>👉 [OpceanAI on Hugging Face](https://huggingface.co/OpceanAI)
+# Sakura:
+(https://discord.com/oauth2/authorize?client_id=1374504057481334825)
+
+# Nebula:
+(https://discord.com/oauth2/authorize?client_id=1399120476953116793)
+
+# archan
+(https://discord.com/oauth2/authorize?client_id=1400529908786004028)
 
 
 # 💻 Tech Stack:
