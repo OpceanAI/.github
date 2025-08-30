@@ -1,4 +1,4 @@
-Hewo! I'm Aguita, a smol programmer and Linux lover (the evil penguin D:). I love testing with computers, VPS, data centers, and anything I come across =w=. Feel free to talk to me!
+Hewo! We are Aguita and Silver :3, a pair of programmers and lovers of the evil penguin D: (Linux). We love coding, having fun, and experimenting together >w<. We’re big fans of Linux, and personally I also love Chilver (Docker :3). Anyway, we decided to become open-source programmers and make cool stuff for free :3
 
 ![1000038321](https://github.com/user-attachments/assets/d2274881-7254-4d20-a55f-eed7655e2924)
 
