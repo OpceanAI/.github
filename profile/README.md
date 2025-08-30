@@ -6,7 +6,7 @@ Hewo! I'm Aguita, a smol programmer and Linux lover (the evil penguin D:). I lov
 name = "aguita and silver:3"
 
 [self]
-age = 17,15"
+age = "17,15"
 locale = "es-en-MX-ES"
 drink = "Water,monster"
 icon = "🫧"
@@ -15,7 +15,7 @@ icon = "🫧"
 fav = "Python, Javascript, Astro, React, Bash, Java,Css,TypeScript,"
 most_used = "TypeScript, Python, Astro, Javascript"
 
-[os]en
+[os]
 kernel = "linux"
 flavor = "Artix,Arch"
 ```
