@@ -29,7 +29,7 @@
 
 ## About OpceanAI
 
-**OpceanAI** is an independent AI research organization founded in 2026 by **awa_omg**, a 16-year-old researcher based in Mexico. The organization operates with no institutional funding, no cloud compute budget, and no team — producing peer-reviewed research, competitive language models, and open-source tooling from consumer hardware.
+**OpceanAI** is an independent AI research organization founded in 2026 by **awa_omg**, researcher based in Mexico. The organization operates with no institutional funding, no cloud compute budget, and no team — producing peer-reviewed research, competitive language models, and open-source tooling from consumer hardware.
 
 OpceanAI's work spans three domains: small language model development under extreme hardware constraints, a theoretical framework connecting information theory to fundamental physics (the Imprint Theory), and open-source infrastructure for local AI deployment.
 
